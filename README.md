@@ -1,0 +1,2 @@
+# quiqi
+Simple Query Builder 
